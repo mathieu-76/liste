@@ -1,4 +1,4 @@
-public class Maillon<E> {
+ublic class Maillon<E> {
 
 	private Maillon<E> prc;
 	private Maillon<E> svt;
