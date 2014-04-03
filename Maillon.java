@@ -5,7 +5,7 @@ public class Maillon<E> {
 	private E          elt;
 
 	public Maillon(E elt) {
-		this.elt = elt;
+		this.elt = elt<E>;
 	}
 
 	public boolean setPrc(Maillon<E> elt) {
